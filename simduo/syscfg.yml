@@ -1,0 +1,4 @@
+syscfg.defs:
+    SIMDUO_TASK_PRIO:
+        type: task_priority
+        value: 20
